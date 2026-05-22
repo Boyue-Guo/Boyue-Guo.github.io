@@ -3,7 +3,7 @@ layout: about
 title: Home
 permalink: /
 subtitle: >
-    <a href="mailto:gby@mail.ustc.edu.cn">gby@mail.ustc.edu.cn</a>
+    <p>Email: <a href="mailto:gby@mail.ustc.edu.cn" style="color: #0066cc; text-decoration: none;">gby@mail.ustc.edu.cn</a></p>
 
 profile:
   align: right
