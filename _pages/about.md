@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <p>University of Science and Technology of China. Department of Astronomy. gby@mail.ustc.edu.cn</p>.
 
 profile:
   align: right
