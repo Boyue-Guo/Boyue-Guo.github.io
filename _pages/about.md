@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>PhD candidate in Department of Astronomy, Univeristy of Science and technology of China, Hefei 230026, China</p>
+    <p></p>
     <p></p>
     <p></p>
 
