@@ -9,7 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Department of Astronomy, Univeristy of Science and technology of China, Hefei 230026, China</p>
+    <p>Department of Astronomy</p>
+    <p>Univeristy of Science and technology of China</p>
+    <p>Hefei 230026, China</p>
 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
