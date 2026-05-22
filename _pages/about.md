@@ -2,7 +2,11 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <p>University of Science and Technology of China. Department of Astronomy. gby@mail.ustc.edu.cn</p>.
+subtitle: >
+    <p>Department of Astronomy</p>
+    <p>University of Science and Technology of China</p>
+    <p>Hefei 230026, China</p>
+    <p>Email: gby@mail.ustc.edu.cn</p>
 
 profile:
   align: right
