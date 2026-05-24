@@ -15,6 +15,12 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography %}
+## First Author Publications
+
+{% bibliography --query @*[first_author=true] %}
+
+## Collaborative Papers
+
+{% bibliography --query @*[first_author!=true] %}
 
 </div>
