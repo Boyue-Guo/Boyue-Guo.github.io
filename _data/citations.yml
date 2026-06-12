@@ -1,11 +1,15 @@
 metadata:
-  last_updated: '2026-06-03'
+  last_updated: '2026-06-12'
 papers:
+  eErE9N8AAAAJ:9yKSN-GCB0IC:
+    citations: 0
+    title: Detection of CO, HO, and OH in WASP-18b with JWST/NIRISS using Direct-Extracted Spectra and Cross-Correlation
+    year: '2026'
   eErE9N8AAAAJ:d1gkVwhDpl0C:
-    citations: 1
+    citations: 2
     title: Elemental abundance pattern and temperature inversion on the dayside of HAT-P-70b observed with CARMENES and PEPSI
     year: '2026'
   eErE9N8AAAAJ:u-x6o8ySG0sC:
-    citations: 10
+    citations: 11
     title: Detection of Fe and Ti on the dayside of the ultrahot Jupiter MASCARA-1b with CARMENES
     year: '2024'
